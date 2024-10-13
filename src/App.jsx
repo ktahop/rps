@@ -1,6 +1,6 @@
 import './App.css'
 
-function App() {
+const App = () => {
   return (
     <main>
       <h1>test</h1>

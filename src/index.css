@@ -27,6 +27,7 @@
 
 body {
   background: var(--clr-bg);
+  color: hsl(0, 100%, 100%);
 }
 
 main {
